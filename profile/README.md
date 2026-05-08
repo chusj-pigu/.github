@@ -14,11 +14,11 @@ Our group supports sequencing, data analysis, workflow development, and infrastr
 - Research computing infrastructure
 - Data organization and reproducibility
 
-## Main repositories
+## Current Work
 
-- `repository-name`: short description
-- `pipeline-name`: short description
-- `documentation-repo`: short description
+<a href="https://github.com/chusj-pigu/nf-core-oncoseq">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chusj-pigu&repo=nf-core-oncoseq&hide_border=true" />
+</a>
 
 ## Services
 
