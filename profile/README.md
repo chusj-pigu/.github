@@ -29,4 +29,4 @@ We support research projects involving sequencing, variant analysis, workflow de
 For requests or collaborations, contact:
 
 ```text
-your.email@example.com
+"MPGI (HSJ)" <mpgi.hsj@ssss.gouv.qc.ca>"
