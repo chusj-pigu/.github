@@ -17,7 +17,7 @@ Our group supports sequencing, data analysis, workflow development, and infrastr
 ## Current Work
 
 <a href="https://github.com/chusj-pigu/nf-core-oncoseq">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chusj-pigu&repo=nf-core-oncoseq&hide_border=true" />
+  <img src="https://github.com/chusj-pigu/nf-core-oncoseq/raw/main/docs/images/nf-core-oncoseq_logo_light.png" />
 </a>
 
 ## Services
